@@ -1,4 +1,4 @@
-package Algorithm;
+package Mathmetics;
 
 import java.util.Arrays;
 

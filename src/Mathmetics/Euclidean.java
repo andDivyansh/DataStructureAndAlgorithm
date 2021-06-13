@@ -1,4 +1,4 @@
-package Algorithm;
+package Mathmetics;
 
 public class Euclidean {
 
