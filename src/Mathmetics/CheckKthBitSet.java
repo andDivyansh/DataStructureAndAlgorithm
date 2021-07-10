@@ -13,6 +13,6 @@ public class CheckKthBitSet {
     }
 
     public static void main(String[] args) {
-        isKthBitSet(10 , 3);
+        isKthBitSet(10, 3);
     }
 }
