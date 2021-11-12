@@ -10,6 +10,7 @@ public class LargestNumberInArray {
         int index = 0;
         for(int arrayIndex = 1; arrayIndex < arr.length; arrayIndex++) {
             if(arr[arrayIndex] > arr[index]){
+                // get the index of the largest number
                 index = arrayIndex;
             }
         }
