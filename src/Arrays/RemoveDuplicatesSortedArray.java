@@ -25,8 +25,22 @@ public class RemoveDuplicatesSortedArray {
         return newSize;
     }
 
+    // Efficient approach
+    // time complexity is O(n) and auxilary space also O(1).
+    public static int removeDuplicatesInSortedArray(int[] array){
+        int newSize =  1;
+        for(int index = 1; index < array.length; index++){
+            if(array[index]  != array[newSize - 1]){
+                array[newSize] = array[index];
+                newSize++;
+            }
+        }
+        return newSize;
+    }
+
     public static void main(String[] args) {
         int[] arr = {12, 12,13,13,14,15};
-        System.out.println("new array size"+ removeDuplicates(arr, arr.length));
+       // System.out.println("new array size"+ removeDuplicates(arr, arr.length));
+        System.out.println("new array size is "+ removeDuplicatesInSortedArray(arr));
     }
 }
