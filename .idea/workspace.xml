@@ -1,85 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2576a2df-8225-4a7c-b4cc-c536a287c518" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2576a2df-8225-4a7c-b4cc-c536a287c518" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/CheckArraySorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/CheckArraySorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/LargestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/LargestNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/LeftRotateAnArrayByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/LeftRotateAnArrayByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/MissingNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MissingNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/MoveZeroToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MoveZeroToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/RemoveDuplicatesSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ReverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ReverseAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SecondLargestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/SecondLargestNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/CheckKthBitSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/CheckKthBitSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/DecimalToBinaryConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/DecimalToBinaryConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/Euclidean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/Euclidean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/LCMUsingEuclidean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/LCMUsingEuclidean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/PowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/PowerOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/PowerSetUsingBitwiseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/PowerSetUsingBitwiseOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/PrimeFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/SieveOfEratosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/SieveOfEratosthenes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/SumOfNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/SumOfNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathmetics/SumOfNumbersRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmetics/SumOfNumbersRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemAndSolutions/RopeCuttingSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/RopeCuttingSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemAndSolutions/StringSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/StringSubsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemAndSolutions/TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/TowerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/PalindromeUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/PalindromeUsingRecursion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DataStructureAndAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructureAndAlgorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructureAndAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructureAndAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623137516082" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uIKB4MqCINJT40WF0BG60QJouH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623137516082" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="Application.MaximumDifference">
+    <configuration name="LeaderInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.LeaderInArray" />
       <module name="DataStructureAndAlgorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeftRotateAnArrayByOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.LeftRotateAnArrayByOne" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MaximumDifference" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveZeroToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MoveZeroToEnd" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateAnArrayAnyPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.RotateAnArrayAnyPlaces" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaximumDifference" />
+        <item itemvalue="Application.LeaderInArray" />
+        <item itemvalue="Application.RotateAnArrayAnyPlaces" />
+        <item itemvalue="Application.LeftRotateAnArrayByOne" />
+        <item itemvalue="Application.MoveZeroToEnd" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -98,49 +169,149 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="219000" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="115" key="#xdebugger.evaluate" timestamp="1636958775575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1636958775575" />
+    <state width="1478" height="210" key="GridCell.Tab.0.bottom" timestamp="1637395898348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637395898348" />
+    <state width="1478" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637221751944" />
+    <state width="1478" height="210" key="GridCell.Tab.0.center" timestamp="1637395898348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637395898348" />
+    <state width="1478" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637221751944" />
+    <state width="1478" height="210" key="GridCell.Tab.0.left" timestamp="1637395898348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637395898348" />
+    <state width="1478" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637221751944" />
+    <state width="1478" height="210" key="GridCell.Tab.0.right" timestamp="1637395898348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637395898348" />
+    <state width="1478" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637221751944" />
+    <state width="1478" height="256" key="GridCell.Tab.1.bottom" timestamp="1637221751944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="256" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637221751944" />
+    <state width="1478" height="256" key="GridCell.Tab.1.center" timestamp="1637221751944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="256" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1637221751944" />
+    <state width="1478" height="256" key="GridCell.Tab.1.left" timestamp="1637221751944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="256" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1637221751944" />
+    <state width="1478" height="256" key="GridCell.Tab.1.right" timestamp="1637221751944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="256" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1637221751944" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1637219583382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1637219583382" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathmetics/PowerOfNumber.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathmetics/PowerOfNumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathmetics/PowerOfNumber.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathmetics/PowerOfNumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathmetics/Factorial.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathmetics/Factorial.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathmetics/FibonacciSeries.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathmetics/SumOfNumbersRecursion.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemandsolutions/RopeCuttingSolution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problemandsolutions/RopeCuttingSolution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/RemoveDuplicatesSortedArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/RemoveDuplicatesSortedArray.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/LeaderInArray.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arrays/MaximumDifference.java</url>
+          <line>19</line>
+          <properties class="arrays.MaximumDifference" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
