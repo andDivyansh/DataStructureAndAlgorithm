@@ -14,7 +14,9 @@ public class MaximumDifference {
         // Consider the min diff will be first element
         int minValue = arr[0];
         for (int index = 1; index < arr.length; index++){
+            // update the max value if difference is higher with the current element
             maxValue =  Math.max(maxValue, arr[index] - minValue);
+            // if current element is lesser than min value then update the min value
             minValue = Math.min(minValue, arr[index]);
         }
             Util.print(maxValue);
