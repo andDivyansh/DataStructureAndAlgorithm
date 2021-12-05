@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2576a2df-8225-4a7c-b4cc-c536a287c518" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/MaxConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MaxConsecutiveOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructureAndAlgorithm/arrays/MaxSumContiguousSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/MaxSumContiguousSubArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +51,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623137516082" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager" selected="Application.MaxSumContiguousSubArray">
-    <configuration name="DuplicatesInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.DuplicatesInSortedArray" />
-      <module name="DataStructureAndAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaxSumContiguousCircularSubArray">
     <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.MaxConsecutiveOnes" />
       <module name="DataStructureAndAlgorithm" />
@@ -77,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSumContiguousSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.MaxSumContiguousSubArray" />
+    <configuration name="MaxLengthEvenOddSubArrayContiguous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MaxLengthEvenOddSubArrayContiguous" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +78,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockBuyAndSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.StockBuyAndSell" />
+    <configuration name="MaxSumContiguousCircularSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MaxSumContiguousCircularSubArray" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSumContiguousSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MaxSumContiguousSubArray" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSumContiguousCircularSubArray" />
+        <item itemvalue="Application.MaxLengthEvenOddSubArrayContiguous" />
         <item itemvalue="Application.MaxSumContiguousSubArray" />
         <item itemvalue="Application.MaxConsecutiveOnes" />
         <item itemvalue="Application.TrapRainWater" />
-        <item itemvalue="Application.StockBuyAndSell" />
-        <item itemvalue="Application.DuplicatesInSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -159,62 +160,72 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="115" key="#xdebugger.evaluate" timestamp="1637497750175">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="524" y="114" key="#xdebugger.evaluate" timestamp="1638705386767">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
+    <state x="524" y="114" key="#xdebugger.evaluate/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705386767" />
     <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637497750175" />
     <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1636958775575" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1637851170192">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1638705695920">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1637851170192" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705695920" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1638447395651" />
     <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637501377503" />
     <state width="1493" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637523139669" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1637851170192">
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1638705695920">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1637851170192" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705695920" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1638447395651" />
     <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637501377503" />
     <state width="1493" height="259" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637523139669" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1637851170192">
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1638705695920">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1637851170192" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705695920" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1638447395651" />
     <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637501377503" />
     <state width="1493" height="259" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637523139669" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1637851170192">
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1638705695920">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1637851170192" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705695920" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1638447395651" />
     <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637501377503" />
     <state width="1493" height="259" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637523139669" />
-    <state width="1493" height="259" key="GridCell.Tab.1.bottom" timestamp="1637523139671">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="255" key="GridCell.Tab.1.bottom" timestamp="1638705691759">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.bottom/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705691759" />
     <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637501361536" />
     <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637523139671" />
-    <state width="1493" height="259" key="GridCell.Tab.1.center" timestamp="1637523139671">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="255" key="GridCell.Tab.1.center" timestamp="1638705691759">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.center/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705691759" />
     <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637501361536" />
     <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1637523139671" />
-    <state width="1493" height="259" key="GridCell.Tab.1.left" timestamp="1637523139669">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="255" key="GridCell.Tab.1.left" timestamp="1638705691759">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.left/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705691759" />
     <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637501361536" />
     <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1637523139669" />
-    <state width="1493" height="259" key="GridCell.Tab.1.right" timestamp="1637523139671">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="255" key="GridCell.Tab.1.right" timestamp="1638705691759">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.right/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638705691759" />
     <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637501361536" />
     <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1637523139671" />
     <state x="475" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1637493452604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="475" y="169" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637493452604" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1637402554680">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="431" y="144" width="672" height="672" key="search.everywhere.popup" timestamp="1638710425675">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
+    <state x="431" y="144" width="672" height="672" key="search.everywhere.popup/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1638710425675" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1637402554680" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1637219583382" />
   </component>
@@ -315,6 +326,21 @@
           <url>file://$PROJECT_DIR$/src/arrays/MaxConsecutiveOnes.java</url>
           <line>10</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/MaxSumContiguousCircularSubArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/MaxSumContiguousCircularSubArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/MaxSumContiguousCircularSubArray.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
